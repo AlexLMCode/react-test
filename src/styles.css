@@ -1,26 +1,10 @@
-/* .title {
-  font-family: sans-serif;
-  text-align: center;
-}
 
-.component_container {
-  position: relative;
-}
 
-main {
-  display: grid;
-  gap: 1em;
-  height: 100vh;
-  width: 100vw;
-}
-
-.button {
+button {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
+  border-radius: 1rem;
   border: none;
-  font-size: 8px;
-} */
+  padding: 1rem;
+} 

@@ -54,6 +54,7 @@ const App = () => {
           height: "80vh",
           width: "80vw",
         }}
+        className="component_container"
       >
         {moveableComponents.map((item, index) => (
           <Component
